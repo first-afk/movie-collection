@@ -7,7 +7,7 @@ A dynamic, data-driven movie gallery that allows users to explore a curated list
 This tool provides an interactive menu with the following modules:
 
 1.  **Clone the Repo**:
-    * ```bash
+    ```bash
     git clone https://github.com/yourusername/movie-gallery.git
     cd movie-gallery
     ```
