@@ -1,0 +1,324 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "release_year": 2010,
+      "genre": ["Sci-Fi", "Action"],
+      "description": "A thief who steals corporate secrets through dream-sharing technology is given the task of planting an idea.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 2,
+      "title": "The Grand Budapest Hotel",
+      "release_year": 2014,
+      "genre": ["Comedy", "Adventure"],
+      "description": "A writer encounters the owner of a declining hotel who recounts his early years as a lobby boy.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 3,
+      "title": "Parasite",
+      "release_year": 2019,
+      "genre": ["Thriller", "Drama"],
+      "description": "Greed and class discrimination threaten the relationship between the wealthy Park family and the destitute Kim clan.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "release_year": 2008,
+      "genre": ["Action", "Crime"],
+      "description": "When the Joker wreaks havoc on Gotham, Batman must accept one of the greatest psychological tests.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 5,
+      "title": "Spirited Away",
+      "release_year": 2001,
+      "genre": ["Animation", "Fantasy"],
+      "description": "A 10-year-old girl wanders into a world ruled by gods, witches, and spirits.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 6,
+      "title": "Interstellar",
+      "release_year": 2014,
+      "genre": ["Sci-Fi", "Drama"],
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 7,
+      "title": "Pulp Fiction",
+      "release_year": 1994,
+      "genre": ["Crime", "Drama"],
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in tales of violence.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 8,
+      "title": "The Matrix",
+      "release_year": 1999,
+      "genre": ["Sci-Fi", "Action"],
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 9,
+      "title": "The Shawshank Redemption",
+      "release_year": 1994,
+      "genre": ["Drama"],
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 10,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "release_year": 2018,
+      "genre": ["Animation", "Action"],
+      "description": "Teen Miles Morales becomes the Spider-Man of his universe and meets others from different dimensions.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 11,
+      "title": "Gladiator",
+      "release_year": 2000,
+      "genre": ["Action", "Drama"],
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 12,
+      "title": "The Godfather",
+      "release_year": 1972,
+      "genre": ["Crime", "Drama"],
+      "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 13,
+      "title": "Everything Everywhere All at Once",
+      "release_year": 2022,
+      "genre": ["Sci-Fi", "Adventure"],
+      "description": "A Chinese-American immigrant is swept up in an adventure across multiple universes.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 14,
+      "title": "Blade Runner 2049",
+      "release_year": 2017,
+      "genre": ["Sci-Fi", "Mystery"],
+      "description": "A young blade runner discovers a secret that leads him to track down former blade runner Rick Deckard.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 15,
+      "title": "Mad Max: Fury Road",
+      "release_year": 2015,
+      "genre": ["Action", "Adventure"],
+      "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 16,
+      "title": "Whiplash",
+      "release_year": 2014,
+      "genre": ["Drama", "Music"],
+      "description": "A young drummer enrolls at a cut-throat music conservatory where dreams are mentored by a ruthless instructor.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 17,
+      "title": "Get Out",
+      "release_year": 2017,
+      "genre": ["Horror", "Mystery"],
+      "description": "A young man visits his girlfriend's parents for the weekend, where his uneasiness reaches a boiling point.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 18,
+      "title": "The Fellowship of the Ring",
+      "release_year": 2001,
+      "genre": ["Fantasy", "Adventure"],
+      "description": "A meek Hobbit and eight companions set out on a journey to destroy the powerful One Ring.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 19,
+      "title": "Coco",
+      "release_year": 2017,
+      "genre": ["Animation", "Family"],
+      "description": "Aspiring musician Miguel enters the Land of the Dead to find his great-great-grandfather.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 20,
+      "title": "Joker",
+      "release_year": 2019,
+      "genre": ["Crime", "Drama"],
+      "description": "A mentally troubled comedian is disregarded by society, embarking on a downward spiral of crime.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 21,
+      "title": "Alien",
+      "release_year": 1979,
+      "genre": ["Horror", "Sci-Fi"],
+      "description": "A space merchant vessel receives an unknown transmission and is attacked by a mysterious life form.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 22,
+      "title": "Inglourious Basterds",
+      "release_year": 2009,
+      "genre": ["War", "Action"],
+      "description": "In Nazi-occupied France, a group of Jewish U.S. soldiers plan to assassinate Nazi leaders.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 23,
+      "title": "The Silence of the Lambs",
+      "release_year": 1991,
+      "genre": ["Crime", "Thriller"],
+      "description": "An F.B.I. cadet must receive the help of an incarcerated cannibal to catch another serial killer.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 24,
+      "title": "Arrival",
+      "release_year": 2016,
+      "genre": ["Sci-Fi", "Drama"],
+      "description": "A linguist works with the military to communicate with aliens after spacecraft appear around the world.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 25,
+      "title": "Oppenheimer",
+      "release_year": 2023,
+      "genre": ["Drama", "History"],
+      "description": "The story of J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 26,
+      "title": "Memento",
+      "release_year": 2000,
+      "genre": ["Mystery", "Thriller"],
+      "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 27,
+      "title": "The Prestige",
+      "release_year": 2006,
+      "genre": ["Drama", "Mystery"],
+      "description": "Two stage magicians in 1890s London engage in a battle to create the ultimate illusion.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 28,
+      "title": "Eternal Sunshine",
+      "release_year": 2004,
+      "genre": ["Romance", "Sci-Fi"],
+      "description": "A couple undergoes a medical procedure to have each other erased from their memories.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 29,
+      "title": "Dune: Part Two",
+      "release_year": 2024,
+      "genre": ["Sci-Fi", "Adventure"],
+      "description": "Paul Atreides unites with the Fremen while on a warpath of revenge against conspirators.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 30,
+      "title": "WALL-E",
+      "release_year": 2008,
+      "genre": ["Animation", "Family"],
+      "description": "In the distant future, a small waste-collecting robot embarks on a space journey.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 31,
+      "title": "No Country for Old Men",
+      "release_year": 2007,
+      "genre": ["Crime", "Drama"],
+      "description": "A hunter stumbles upon a drug deal gone wrong and two million dollars in cash.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 32,
+      "title": "Shutter Island",
+      "release_year": 2010,
+      "genre": ["Mystery", "Thriller"],
+      "description": "A U.S. Marshal investigates the disappearance of a murderer from an insane asylum.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 33,
+      "title": "Your Name",
+      "release_year": 2016,
+      "genre": ["Animation", "Romance"],
+      "description": "Two strangers find themselves linked in a bizarre way through their dreams.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 34,
+      "title": "Toy Story",
+      "release_year": 1995,
+      "genre": ["Animation", "Adventure"],
+      "description": "A cowboy doll is threatened when a new spaceman figure becomes a boy's favorite toy.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 35,
+      "title": "The Departed",
+      "release_year": 2006,
+      "genre": ["Crime", "Drama"],
+      "description": "An undercover cop and a mole in the police attempt to identify each other.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 36,
+      "title": "Jurassic Park",
+      "release_year": 1993,
+      "genre": ["Adventure", "Sci-Fi"],
+      "description": "A power failure causes dinosaurs to run loose at a pragmatic theme park.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 37,
+      "title": "Grandma's Boy",
+      "release_year": 2006,
+      "genre": ["Comedy"],
+      "description": "A video game tester has to move in with his grandmother and her two old lady friends.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 38,
+      "title": "The Lion King",
+      "release_year": 1994,
+      "genre": ["Animation", "Drama"],
+      "description": "A lion prince is targeted by his bitter uncle, who wants to ascend the throne.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 39,
+      "title": "Fight Club",
+      "release_year": 1999,
+      "genre": ["Drama"],
+      "description": "An insomniac office worker and a soap maker form an underground fight club.",
+      "poster_url": "https://placehold.co/300x450"
+    },
+    {
+      "id": 40,
+      "title": "Se7en",
+      "release_year": 1995,
+      "genre": ["Crime", "Mystery"],
+      "description": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives.",
+      "poster_url": "https://placehold.co/300x450"
+    }
+  ]
+}
