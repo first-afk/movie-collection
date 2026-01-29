@@ -57,6 +57,25 @@ This tool provides an interactive menu with the following modules:
 *    [Student 2]: CSS styling (Grid Cards), implemented movie card rendering.
 
 
+ ## Brief Presentation
+
+## Workflow Challenges Faced
+
+* Coordinating contributions in a shared repository required careful timing to avoid conflicts.
+* Managing branches and ensuring changes were merged in the correct order needed attention.
+* Tracking updates across multiple branches required consistent monitoring.
+
+## Solutions Implemented
+* We used feature branches to separate work and keep changes organized.
+* Pull requests and code reviews helped verify updates before merging.
+* Git commands e.g checkout, pull, push, and merge were used to maintain synchronization. We communicated regularly to coordinate merges and approvals.
+
+## Lessons Learned
+* Clear planning improves collaboration in team projects. 
+* Using Git workflows properly helps prevent conflicts and confusion.
+* Pull requests are useful for reviewing and validating changes. Version control tools make teamwork more structured and transparent.
+* Team projects build real-world collaboration skills and adaptability.
+
 
 ## 📁 File Structure
 ```bash
